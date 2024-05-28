@@ -1,0 +1,27 @@
+
+th,td,button,time{
+  border: 2px solid #443c68;
+  min-width:150px;
+  padding:15px;
+  line-height:1;
+  
+  
+}
+.tabl{
+  border:2px solid black;
+}
+.timepass{
+  border:2px solid black;
+  
+}
+
+@media screen and (max-width:660px) {
+  
+  th,td{
+    min-width:10px;
+    padding:1px;
+    margin: 0px;
+  padding-top:5px;
+    
+  }
+}
